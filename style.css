@@ -2,7 +2,8 @@
 body {
     font-family: 'Lato', sans-serif;
     margin: 2em;
-    background-image: url('https://cdn.glitch.com/178f316c-81c1-42c5-8a1f-0cadd7f01d44%2Fpaint.jpg?1528766209169');
+    /*background-image: url('https://cdn.glitch.com/178f316c-81c1-42c5-8a1f-0cadd7f01d44%2Fpaint.jpg?1528766209169');*/
+    background-image: url('https://cdn.glitch.com/8157b721-e75a-4879-8e34-32911787c8ba%2Fwall.jpg?1528497183522');
 }
 
 ::-webkit-scrollbar {
@@ -35,7 +36,7 @@ footer:hover {
     font-size: 50px;
     text-align: center;
     /*background-color: #0affb6;*/
-    background-image: url('https://cdn.glitch.com/c16530b3-dd93-4a57-936e-b6d47ae27437%2Fgradients.png?1534794030508');
+    background-image: url('https://cdn.glitch.com/c16530b3-dd93-4a57-936e-b6d47ae27437%2Flogo.PNG?1534798405480');
     width: 100%;
     height: 200px;
 }
