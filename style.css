@@ -4,6 +4,7 @@ body {
     margin: 2em;
     /*background-image: url('https://cdn.glitch.com/178f316c-81c1-42c5-8a1f-0cadd7f01d44%2Fpaint.jpg?1528766209169');*/
     background-image: url('https://cdn.glitch.com/8157b721-e75a-4879-8e34-32911787c8ba%2Fwall.jpg?1528497183522');
+    background-repeat: no-repeat;
 }
 
 ::-webkit-scrollbar {
